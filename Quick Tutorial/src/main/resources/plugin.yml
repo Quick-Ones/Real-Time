@@ -1,0 +1,10 @@
+main: com.hotmail.fabiansandberg98.Time
+name: Time
+author: Fabian Sandberg Rostadli aka AdobeGFX
+version: '1.0'
+database: false
+description: >
+             Gives you your current time, and date
+commands:
+  time:
+   description: Gives you your current time, and date
